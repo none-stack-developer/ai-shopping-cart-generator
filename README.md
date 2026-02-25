@@ -1,5 +1,7 @@
 # AI Shopping Cart Generator
 
+Link : https://www.damazoom.com/
+
 <img width="540" height="675" alt="4" src="https://github.com/user-attachments/assets/cceac6bf-5a04-4ffe-ac78-12dbace4474d" />
 
 Natural language → Complete shopping cart
